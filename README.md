@@ -1,6 +1,7 @@
 # Hi, I'm Soliah Akinola 👋
 
 **Frontend Developer | React · JavaScript · TypeScript · Tailwind CSS**
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-125B50?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR-PORTFOLIO-URL)
 
 I'm a frontend developer and an **alumnus of AltSchool Africa**, where I earned a **Diploma in Frontend Development**. I build clean, responsive and user-focused web applications, turning ideas and designs into smooth, interactive experiences, from business landing pages to full booking and e-commerce interfaces. I care about good layout, accessibility and code that's easy to maintain.
 
@@ -48,6 +49,7 @@ I'm a frontend developer and an **alumnus of AltSchool Africa**, where I earned 
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
+| 💼 **Personal Portfolio** | My portfolio website with live project previews, project filters, a working contact form and a downloadable CV | React, Vite, Tailwind CSS | [View Live ↗](https://soliahs-portfolio.vercel.app/) |
 | 🏨 **QuickStay** *(in progress)* | Hotel booking platform with room listings, bookings, and an owner dashboard for adding and managing rooms | React, Tailwind CSS, React Router | [View Live ↗](https://client-delta-snowy-80.vercel.app/) |
 | 🛒 [E-Commerce Website](https://github.com/Soliah-Akinola/E-COMMERCE-WEBSITE) | Online store interface with product showcase and shopping layout | HTML, CSS | [View Live ↗](https://afiyah.vercel.app/) |
 | 🎬 [Movie Website](https://github.com/Soliah-Akinola/movie-website) | Movie discovery and browsing site | JavaScript | [View Live ↗](https://movie-website-jhxb.vercel.app/) |
@@ -72,5 +74,6 @@ I'm a frontend developer and an **alumnus of AltSchool Africa**, where I earned 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soliah-o-6445a6361)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinolasoliah@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-125B50?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR-PORTFOLIO-URL)
 
 ⭐ If you like any of my projects, feel free to star the repo. It means a lot!
